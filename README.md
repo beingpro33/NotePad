@@ -1,6 +1,8 @@
-## NOTEPAD
+## NOTEPAD(Note It Down)
 
 A simple application using Java Core
+
+![alt text](image.png)
 
 ## Folder Structure
 
