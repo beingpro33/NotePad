@@ -1,6 +1,6 @@
-## Getting Started
+## NOTEPAD
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple application using Java Core
 
 ## Folder Structure
 
